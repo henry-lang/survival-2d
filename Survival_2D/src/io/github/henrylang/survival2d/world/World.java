@@ -9,6 +9,7 @@ import processing.core.PApplet;
 
 public class World {
 	public static final int BLOCK_SIZE = 10;
+
 	public static final int CHUNK_LENGTH = 16;
 	public static final int RENDER_DISTANCE = 10;
 	public static final int WORLD_CHUNK_HEIGHT = 15;
