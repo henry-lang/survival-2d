@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="io.github.henrylang.survival2d.world.tile.tiles.TileTypes"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="io.github.henrylang.survival2d.world.chunk.Chunk"/>
+<fullyQualifiedTypeName name="com.jogamp.opengl.GL4"/>
+<fullyQualifiedTypeName name="io.github.henrylang.survival2d.world.player.Player"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="io.github.henrylang.survival2d.world.World"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="io.github.henrylang.survival2d.world.chunk.ChunkSaver"/>
+<fullyQualifiedTypeName name="processing.core.PApplet"/>
+</qualifiedTypeNameHistroy>
