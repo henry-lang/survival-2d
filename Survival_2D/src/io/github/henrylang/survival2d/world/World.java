@@ -3,8 +3,8 @@ package io.github.henrylang.survival2d.world;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import io.github.henrylang.survival2d.world.chunk.Chunk;
-import io.github.henrylang.survival2d.world.player.Player;
+import io.github.henrylang.survival2d.chunk.Chunk;
+import io.github.henrylang.survival2d.player.Player;
 import processing.core.PApplet;
 
 public class World {
@@ -38,7 +38,8 @@ public class World {
 			app.stroke(0);
 			app.point(chunk.x * 10, chunk.y * 10 + 40);
 		}
-		player.pos.x += 1;
+		
+		player.pos.x++;
 	}
 	
 	public void checkUnloadChunks(int playerChunkX, int playerChunkY) {

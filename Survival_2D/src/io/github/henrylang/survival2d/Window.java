@@ -1,7 +1,7 @@
 package io.github.henrylang.survival2d;
 
+import io.github.henrylang.survival2d.tile.TileTypes;
 import io.github.henrylang.survival2d.world.World;
-import io.github.henrylang.survival2d.world.tile.TileTypes;
 import processing.core.PApplet;
 
 public class Window extends PApplet {

@@ -1,4 +1,4 @@
- package io.github.henrylang.survival2d.world.player;
+ package io.github.henrylang.survival2d.player;
 
 import processing.core.PVector;
 
